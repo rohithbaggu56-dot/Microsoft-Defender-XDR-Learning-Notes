@@ -63,42 +63,15 @@ These notes are intended to serve as a personal reference while strengthening my
 - Microsoft security ecosystem overview
 
 ---
+🏅 Microsoft Learn Achievements
 
-# 🏅 Microsoft Learn Achievements
+• Completed all 6 Microsoft Learn modules
 
-### Mitigate Incidents using Microsoft Defender
+• Completed the Microsoft Defender XDR learning path
 
-![Mitigate Incidents](Images/Achievements/01-mitigate-incidents.png)
+• Earned Microsoft Learn achievement badges
 
----
-
-### Deploy Microsoft Defender for Endpoint
-
-![Deploy Defender](Images/Achievements/02-deploy-defender-endpoint.png)
-
----
-
-### Configure Alerts and Detections
-
-![Alerts](Images/Achievements/03-alerts-detections.png)
-
----
-
-### Configure Automation
-
-![Automation](Images/Achievements/04-automation.png)
-
----
-
-### Perform Device Investigation
-
-![Device Investigation](Images/Achievements/05-device-investigation.png)
-
----
-
-### Microsoft Defender XDR Learning Path
-
-![Learning Path](Images/Achievements/06-learning-path.png)
+Achievement screenshots are available in the Images/Achievements directory.
 
 ---
 
